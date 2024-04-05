@@ -62,7 +62,7 @@ abstract public class LearningRule implements Serializable {
     protected transient List<LearningEventListener> listeners = new ArrayList();
 
     
-    private final Logger LOGGER = LoggerFactory.getLogger(LearningRule.class);    
+//    private final Logger LOGGER = LoggerFactory.getLogger(LearningRule.class);
     
     /**
      * Creates new instance of learning rule

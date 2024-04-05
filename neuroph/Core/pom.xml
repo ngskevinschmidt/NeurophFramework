@@ -9,6 +9,7 @@
    </parent>
    <artifactId>neuroph-core</artifactId>
    <packaging>jar</packaging>
+   <version>2.98.1</version>
 
    <name>Core</name>
 
